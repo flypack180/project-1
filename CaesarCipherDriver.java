@@ -4,9 +4,6 @@ import java.util.Scanner;
 /**
  * CaesarCipherDriver
  * Name: Carson Steinbach
- * Course Name with Section Number: Programming Fundamentals
- * Semester: Spring
- * Assignment Name: Programming Assignment 1 (Cipher)
  */
 public class CaesarCipherDriver {
     public static void main(String[] args) {
